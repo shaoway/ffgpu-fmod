@@ -1,0 +1,3 @@
+[submodule "dbusintf"]
+	path = dbusintf
+	url = https://github.com/shaowei-wang/ffgpu-dbus-intf.git
